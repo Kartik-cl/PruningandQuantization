@@ -1,0 +1,4 @@
+projects/mnist/model/*
+projects/mnist/logs/*
+projects/mnist/__pycache__/*
+*.pyc
